@@ -1,7 +1,7 @@
 # outputs:
 
 
-<img width="771" height="974" alt="image" src="https://github.com/user-attachments/assets/4f05292b-3642-4644-82dd-08fa91271d12" />
+<img width="579" height="429" alt="image" src="https://github.com/user-attachments/assets/4f05292b-3642-4644-82dd-08fa91271d12" />
 
 
 
