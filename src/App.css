@@ -1,0 +1,39 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #e6e6e6;
+  font-family: Arial, sans-serif;
+}
+
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.dashboard-container {
+  width: 900px;
+  padding: 20px;
+}
+
+.search-box {
+  display: flex;
+  flex-direction: column;   
+  gap: 10px;
+  margin-bottom: 20px;
+  width: 200px;
+}
+
+.search-box input {
+  padding: 8px;
+  font-size: 14px;
+}
+
+
+.search-box button {
+  padding: 8px;
+  width: 100px;
+  cursor: pointer;
+}
